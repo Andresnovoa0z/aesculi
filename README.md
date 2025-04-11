@@ -12,5 +12,5 @@ Sistema inteligente médico con capacidades avanzadas de diagnóstico, generaci�
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/aesculIA.git
+   git clone https://github.com/TU_USUARIO/aesculIA.git](https://github.com/Andresnovoa0z/aesculIA.git
    cd aesculIA
